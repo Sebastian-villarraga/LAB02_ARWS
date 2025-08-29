@@ -22,6 +22,7 @@ Creación, puesta en marcha y coordinación de hilos.
 
 3. Lo que se le ha pedido es: debe modificar la aplicación de manera que cuando hayan transcurrido 5 segundos desde que se inició la ejecución, se detengan todos los hilos y se muestre el número de primos encontrados hasta el momento. Luego, se debe esperar a que el usuario presione ENTER para reanudar la ejecución de los mismo.
 
+<img width="364" height="440" alt="image" src="https://github.com/user-attachments/assets/aedb2a75-122e-41c7-bfe9-0b7e41e05e1e" />
 
 
 
