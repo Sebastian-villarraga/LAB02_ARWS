@@ -71,6 +71,8 @@ Taller.
     resultados.
     - <img width="1877" height="928" alt="image" src="https://github.com/user-attachments/assets/2541307e-a615-40d9-ba0b-91c2eed6ac65" />
     - <img width="1890" height="655" alt="image" src="https://github.com/user-attachments/assets/dbf83269-1a7f-4d36-8ab2-e9cfbc6ff9bd" />
+    - <img width="633" height="75" alt="image" src="https://github.com/user-attachments/assets/2c1b2006-e71f-4701-a3f9-e8a2607e0a41" />
+
 
 
 
