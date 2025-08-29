@@ -54,21 +54,39 @@ Taller.
 
     b.  Puede utilizarse el método join() de la clase Thread para sincronizar el hilo que inicia la carrera, con la finalización de los hilos de los galgos.
 
+    - <img width="1915" height="549" alt="image" src="https://github.com/user-attachments/assets/22241aa1-74da-415e-8077-e20caffd5cc5" />
+
+
 2.  Una vez corregido el problema inicial, corra la aplicación varias
     veces, e identifique las inconsistencias en los resultados de las
     mismas viendo el ‘ranking’ mostrado en consola (algunas veces
     podrían salir resultados válidos, pero en otros se pueden presentar
     dichas inconsistencias). A partir de esto, identifique las regiones
     críticas () del programa.
+    - <img width="1879" height="241" alt="image" src="https://github.com/user-attachments/assets/607df8e2-a4d0-47e3-bd41-ea266c1d1813" />
 
-3.  Utilice un mecanismo de sincronización para garantizar que a dichas
+
+4.  Utilice un mecanismo de sincronización para garantizar que a dichas
     regiones críticas sólo acceda un hilo a la vez. Verifique los
     resultados.
+    - <img width="1877" height="928" alt="image" src="https://github.com/user-attachments/assets/2541307e-a615-40d9-ba0b-91c2eed6ac65" />
+    - <img width="1890" height="655" alt="image" src="https://github.com/user-attachments/assets/dbf83269-1a7f-4d36-8ab2-e9cfbc6ff9bd" />
 
-4.  Implemente las funcionalidades de pausa y continuar. Con estas,
+
+
+5.  Implemente las funcionalidades de pausa y continuar. Con estas,
     cuando se haga clic en ‘Stop’, todos los hilos de los galgos
     deberían dormirse, y cuando se haga clic en ‘Continue’ los mismos
     deberían despertarse y continuar con la carrera. Diseñe una solución que permita hacer esto utilizando los mecanismos de sincronización con las primitivas de los Locks provistos por el lenguaje (wait y notifyAll).
+    - <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/dedbfe49-3680-461d-8c41-e2454a737bdc" />
+    - <img width="567" height="91" alt="image" src="https://github.com/user-attachments/assets/103b407c-dff0-4c89-9208-22c8fea9534a" />
+    - <img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/2f1a5bf3-4e89-43c8-af7c-5a8cfaf67a24" />
+    - <img width="421" height="44" alt="image" src="https://github.com/user-attachments/assets/edae7987-8110-46d1-aa8f-dba59729b069" />
+
+    - <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/e8a2d1eb-2b11-43c5-b4aa-3435b52cb53f" />
+
+
+
 
 
 ## Criterios de evaluación
